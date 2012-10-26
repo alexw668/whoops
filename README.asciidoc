@@ -22,3 +22,5 @@ Whoops is a logging system. It consists of a Rails engine (which records logs an
 == License
 
 This project uses MIT-LICENSE.
+
+[![Build Status](https://travis-ci.org/alexw668/whoops.png)](https://travis-ci.org/alexw668/whoops)
