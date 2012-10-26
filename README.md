@@ -1,7 +1,10 @@
 Whoops
 ======
+
 Daniel Higginbotham <daniel@flyingmachinestudios.com>
 2011-07-09
+
+[![Build Status](https://travis-ci.org/alexw668/whoops.png)](https://travis-ci.org/alexw668/whoops)
 
 == What is Whoops?
 
@@ -22,5 +25,3 @@ Whoops is a logging system. It consists of a Rails engine (which records logs an
 == License
 
 This project uses MIT-LICENSE.
-
-[![Build Status](https://travis-ci.org/alexw668/whoops.png)](https://travis-ci.org/alexw668/whoops)
